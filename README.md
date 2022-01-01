@@ -1,6 +1,6 @@
-# Webpack Starter
+# JavaScript «to do» list
 
-Archivos y configuraciones iniciales para proyectos que trabajen con Webpack.
+Trabajo del curso JavaScript Fernando Herrera
 
 ## Notas:
 
